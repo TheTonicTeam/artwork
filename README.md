@@ -1,3 +1,3 @@
 # TonicOS Artwork
-
-Artwork for the TonicOS, includes logos, themes and etc.
+Artwork for TonicOS.
+Includes Logos, wallpapers, etc...
